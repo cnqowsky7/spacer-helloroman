@@ -1,34 +1,14 @@
-# spacer-helloroman
+# Spacer app
 
-## Project setup
-```
-npm install
-```
+This app uses NASA image API to fetch images and display them after passing search query.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Hello Roman - youtube vue course
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* youtube link: x
 
-### Run your tests
-```
-npm run test
-```
+### How to start?
 
-### Lints and fixes files
 ```
-npm run lint
+npm
+npm serve
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
